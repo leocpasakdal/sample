@@ -1,4 +1,4 @@
-{
+{"2019-05-01": {
   "driverId1": {
     "leaves": [{ "leaveId": 1 }],
     "availabilities": [{ "availabilityId": 1 }],
@@ -19,4 +19,5 @@
     "fixedShifts": [{ "fixedShiftId": 3 }],
     "shifts": [{ "shiftId": 3 }]
   }
+}
 }
